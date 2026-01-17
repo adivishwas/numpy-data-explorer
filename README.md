@@ -33,10 +33,16 @@ python numpy_data_explorer.py
 
 ## Output Files
 
-The script will automatically create the following files when run:
+### Sample Outputs (Included in Repository)
+- `sample_output.txt` - Complete output from running the script
+- `OUTPUT_EXAMPLES.md` - Key highlights and performance results
+
+### Generated Files (Created when you run the script)
 - `saved_array_1d.npy` - Single array saved in NumPy format
 - `saved_arrays.npz` - Multiple arrays saved in compressed format
 - `saved_array_text.txt` - Array saved as human-readable text
+
+**Note:** You can view the sample outputs without running the script to see what the project demonstrates!
 
 ## Requirements
 

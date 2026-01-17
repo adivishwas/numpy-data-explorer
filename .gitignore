@@ -3,6 +3,9 @@
 *.npz
 saved_array_text.txt
 
+# Allow sample output for documentation
+!sample_output.txt
+
 # Python cache
 __pycache__/
 *.py[cod]
